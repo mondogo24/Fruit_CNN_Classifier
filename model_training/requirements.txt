@@ -1,0 +1,6 @@
+ipykernel
+tensorflow
+datasets[vision]
+matplotlib
+seaborn
+scikit-learn
